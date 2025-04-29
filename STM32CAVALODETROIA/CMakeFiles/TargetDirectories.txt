@@ -1,0 +1,6 @@
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/CMakeFiles/STM32CAVALODETROIA.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/CMakeFiles/rebuild_cache.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Área de Trabalho/MICRO/LAB03/STM32CAVALODETROIA/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
